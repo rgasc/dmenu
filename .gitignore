@@ -1,3 +1,5 @@
 dmenu
 *.o
 stest
+*.diff
+config.def.h
